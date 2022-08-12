@@ -118,7 +118,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: yellow;
+    color: rgb(255, 0, 0);
 }
 .navbar.sticky .menu li a:hover{
     color: yellow;
